@@ -1,4 +1,4 @@
-package com.git.paulopcrp.citiesapi.citiesApi.repository;
+package com.git.paulopcrp.citiesapi.citiesApi.countries.repository;
 
 import com.git.paulopcrp.citiesapi.citiesApi.countries.Country;
 import org.springframework.data.jpa.repository.JpaRepository;
